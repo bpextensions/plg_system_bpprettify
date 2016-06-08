@@ -1,8 +1,2 @@
-# BP Prettify
-A Joomla! 3 system plugin that use Google Prettify to highlight code in articles.
-
-## Features
-- No performance loss
-- Multiple themes available
-- No system crashes (code highlight takes place in the browser)
-- Update server
+# BP Prettify update server
+This is the updates server branch for [BP Prettify Joomla! plugin](https://github.com/bestproject/plg_system_bpprettify).
