@@ -2,7 +2,7 @@
 <updates>
     <update>
         <name>BP Prettify</name>
-        <description>BP Prettify module</description>
+        <description>A plugin that highlights code using Google Prettify.</description>
         <element>plg_system_bpprettify</element>
         <type>plugin</type>
         <version>1.0.0</version>
