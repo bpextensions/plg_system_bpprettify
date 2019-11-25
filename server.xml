@@ -47,6 +47,7 @@
         <infourl title="Changelog">https://github.com/bestproject/plg_system_bpprettify/blob/master/README.md</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/bestproject/plg_system_bpprettify/releases/download/v1.0.2/plg_system_bpprettify_1.0.2.zip</downloadurl>
+            <downloadurl type="upgrade" format="zip">https://github.com/bestproject/plg_system_bpprettify/releases/download/v1.0.2/plg_system_bpprettify_1.0.2.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
