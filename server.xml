@@ -41,6 +41,7 @@
         <description>A plugin that highlights code using Google Prettify.</description>
         <element>plg_system_bpprettify</element>
         <type>plugin</type>
+        <folder>system</folder>
         <version>1.0.2</version>
         <client>0</client>
         <infourl title="Changelog">https://github.com/bestproject/plg_system_bpprettify/blob/master/README.md</infourl>
@@ -53,5 +54,6 @@
         <maintainer>Artur Stępień</maintainer>
         <maintainerurl>http://www.bestproject.pl</maintainerurl>
         <targetplatform name="joomla" version="3.[0123456789]"/>
+        <php_minimum>7.0.0</php_minimum
     </update>
 </updates>
