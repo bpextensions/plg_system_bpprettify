@@ -54,6 +54,6 @@
         <maintainer>Artur Stępień</maintainer>
         <maintainerurl>http://www.bestproject.pl</maintainerurl>
         <targetplatform name="joomla" version="3.[0123456789]"/>
-        <php_minimum>7.0.0</php_minimum
+        <php_minimum>7.0.0</php_minimum>
     </update>
 </updates>
